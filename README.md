@@ -9,3 +9,5 @@ It uses classic image processing techniques (thresholding, Canny edge detection,
 - **OCR** to extract the license plate number.
 
   
+![License Plate Detected](images/1.png)
+![Cropped Plate](images/2.png)
